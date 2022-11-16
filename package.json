@@ -1,0 +1,23 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolidDevMain/Solidity-Bot-for-Arbitrage-on-Uniswap.git"
+  },
+  "author": "Jonathan Moss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolidDevMain/Solidity-Bot-for-Arbitrage-on-Uniswap/issues"
+  },
+  "homepage": "https://github.com/SolidDevMain/Solidity-Bot-for-Arbitrage-on-Uniswap#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
+}
